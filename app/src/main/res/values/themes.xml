@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppA" parent="@style/Theme.AppCompat">
+        <item name="colorAccent">#FF7043</item>
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="backgroundColor">#FFFFFF</item>
+    </style>
+</resources>
