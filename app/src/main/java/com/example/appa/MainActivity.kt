@@ -21,9 +21,9 @@ class MainActivity : FragmentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val bottomNavigationView=findViewById<BottomNavigationView>(R.id.bottom_navigation_view)
-        val navController=findNavController(R.id.news_host_fragment)
-        bottomNavigationView.setupWithNavController(navController)
+       // val bottomNavigationView=findViewById<BottomNavigationView>(R.id.bottom_navigation_view)
+       // val navController=findNavController(R.id.news_host_fragment)
+       // bottomNavigationView.setupWithNavController(navController)
 
     }
 }
